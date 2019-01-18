@@ -1,0 +1,11 @@
+{
+  "breakRule": true,
+  "beforebreak": {
+    "pattern": "\u003cbr\\d+/?\u003e",
+    "flags": 32
+  },
+  "afterbreak": {
+    "pattern": ".",
+    "flags": 32
+  }
+}
